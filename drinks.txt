@@ -1,0 +1,9 @@
+Beer:6
+Fanta:2
+Champagne:20
+Water:1
+Wine:4
+Coke:2
+Sprite:2
+Cocktail:9
+DrPepper:2

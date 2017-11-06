@@ -1,0 +1,21 @@
+Zach
+Coke, Sprite, Fanta, DrPepper
+Burgers, Fries, Tacos, Noodles
+Zach
+Fanta, DrPepper
+Rice, Noodles
+Julie
+Water, Cocktail, Beer
+Fried Chicken, Fries
+May
+Beer, Wine
+Pasta, Salad
+Tom
+Coke, Wine, Sprite
+Burgers, Tacos, Pasta
+Prince
+Champagne, Water, Wine
+Pasta
+Julie
+Beer, Fanta
+Noodles, Salad

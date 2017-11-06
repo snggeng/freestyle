@@ -1,0 +1,8 @@
+Burgers:1
+Fries:2
+Tacos:5
+Noodles:3
+Rice:4
+Fried Chicken:7
+Pasta:10
+Salad:5
