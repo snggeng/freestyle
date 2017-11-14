@@ -1,21 +1,21 @@
 Zach
 Coke, Sprite, Fanta, DrPepper
-Burgers, Fries, Tacos, Noodles
+Burgers, Fries, Tacos, Noodles, Salad
 Zach
 Fanta, DrPepper
-Rice, Noodles
+Rice, Noodles, Salad
 Julie
 Water, Cocktail, Beer
-Fried Chicken, Fries
+Fried Chicken, Fries, Salad
 May
 Beer, Wine
 Pasta, Salad
 Tom
 Coke, Wine, Sprite
-Burgers, Tacos, Pasta
+Burgers, Tacos, Pasta, Salad
 Prince
 Champagne, Water, Wine
-Pasta
+Pasta, Salad
 Julie
 Beer, Fanta
 Noodles, Salad
