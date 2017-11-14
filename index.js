@@ -97,6 +97,7 @@ async function allocateBudget() {
       }
     })
   })
+  // format into object to return
   let x = res.reduce((obj, item) => {
     return obj[item] = ++obj[item]||1, obj
   }, {})
